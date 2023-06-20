@@ -4,7 +4,7 @@ A collection of resources for budding AI hackers.  *Note this is an evolving res
 
 ## Background
 
-TODO
+This repository is meant to be a collection of resources and tools for anyone wanting to dive into programming their own AI or hacking existing AI systems.  
 
 ## Resources
 
@@ -12,23 +12,29 @@ TODO: Fill out with stuff
 
 ### Workshops
 
-Any online workshops here, including our own, as well as some of the web based CTF stuff
+-GPT Prompt Attack: https://gpa.43z.one/
+- GPT Crafting Game: https://gpt.43z.one/
+- Merlin's Defense: https://mcaledonensis.blog/merlins-defense/
+
 
 ### Programming Libraries
 
-I'm not sure there are any, but keeping this here as a note to look for them
+- LangChain: https://github.com/hwchase17/langchain
+
 
 ### Articles and Op-Eds
 
-Just basic articles, books and white papers will be a different section
+Just introductory articles, books and white papers will be in a different section
 
 ### Videos
 
-Other videos as well as our own.  We can add the AI village talks as a subsection within here to keep them seperate from everything else.  
+- Attacking LLM- Prompt Injection: https://www.youtube.com/watch?v=Sv5OLj2nVAQ
+- Accidental LLM Backdoor - Prompt Tricks: https://www.youtube.com/watch?v=h74oXb4Kk8k
+
 
 ### Books and White Papers
 
-Ideally these will be ebooks with links we can reference, but titles and authhors are also fine.  
+Ideally, these will be ebooks with links we can reference, but titles and authhors are also acceptable.  
 
 
 
