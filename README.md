@@ -12,9 +12,9 @@ TODO: Fill out with stuff
 
 ### Workshops
 
--GPT Prompt Attack: https://gpa.43z.one/
-- GPT Crafting Game: https://gpt.43z.one/
-- Merlin's Defense: https://mcaledonensis.blog/merlins-defense/
+ - GPT Prompt Attack: https://gpa.43z.one/
+ - GPT Crafting Game: https://gpt.43z.one/
+ - Merlin's Defense: https://mcaledonensis.blog/merlins-defense/
 
 
 ### Programming Libraries
@@ -30,6 +30,7 @@ Just introductory articles, books and white papers will be in a different sectio
 
 - Attacking LLM- Prompt Injection: https://www.youtube.com/watch?v=Sv5OLj2nVAQ
 - Accidental LLM Backdoor - Prompt Tricks: https://www.youtube.com/watch?v=h74oXb4Kk8k
+- Jailbreak example: https://www.youtube.com/watch?v=S7jviw0BgKE
 
 
 ### Books and White Papers
