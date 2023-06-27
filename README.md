@@ -24,7 +24,7 @@ TODO: Fill out with stuff
 
 ### Articles and Op-Eds
 
-Just introductory articles, books and white papers will be in a different section
+- Prompt Injections Explained: https://simonwillison.net/2023/May/2/prompt-injection-explained/
 
 ### Videos
 
