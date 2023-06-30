@@ -43,7 +43,8 @@ These are publicly available resources that anyone can use or access.  These are
 
 ### Books and White Papers
 
-Ideally, these will be ebooks with links we can reference, but titles and authhors are also acceptable.  
+- Compromising LLMs using Indirect Prompt Injections: https://github.com/greshake/llm-security
+  - A great writeup of how an attacker can use indirect prompt injections to attack systems.  
 
 
 
